@@ -40,10 +40,8 @@ React
 
 ## Scope
 
-This is how we write [React.js](https://facebook.github.io/react/) on Rails.
-We've struggled to find the happy path. Recommendations here represent a good
-number of failed attempts. If something seems out of place, it probably is;
-let us know what you've found.
+이것은 레일즈에서 [React.js](https://facebook.github.io/react/) 작성법 입니다.
+저희는 적절한 경로를 찾으려 노력했습니다. 여기서 추천하는것들은 좋은 실패한 시도들인 것입니다. 이외에 무언가가 있다면 함께 알도록 찾은것을 공유해주십시오.
 
 모든 예제들은 ES2015 문법으로 작성되어 있습니다. 현재
 [공식 react-rails gem](https://github.com/reactjs/react-rails)에는
